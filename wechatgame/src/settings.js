@@ -1,0 +1,1 @@
+window._CCSettings={platform:"wechatgame",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:["resources"],subpackages:[],launchScene:"db://assets/scene/StartScene.fire",orientation:"",server:"https://waipo.cloudschools.top/penghuwan",jsList:[],bundleVers:{internal:"70573",resources:"b5baa",main:"1967a"}};
